@@ -1,0 +1,10 @@
+
+.footer{ 
+    background-color:#ccc;
+}
+
+.footer ul li a { 
+    color: #fff; font-size: 18px; text-transform: capitalize;
+}
+
+.footer ul li a:hover{ color: #ccc; }
